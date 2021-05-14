@@ -1,35 +1,22 @@
-### Rafael Medeiros
-
-
-<a target="_blank" href="https://www.linkedin.com/in/medeirosfalante/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a target="_blank" href="https://www.instagram.com/medeirosfalante/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a target="_blank" href="https://medium.com/@medeirosfalante">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
-</a>
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />  Rafael Medeiros<p align="center">
+  <a href="https://www.linkedin.com/in/medeirosfalante/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
+  </a>
+  <a href="https://www.instagram.com/medeirosfalante/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp"  width="35px" style="margin: 15px;" />
+  </a>
+  <a href="https://medium.com/@medeirosfalante">
+    <img src="https://user-images.githubusercontent.com/38620899/117998441-4995ae80-b31a-11eb-8b2d-77527cb8f054.png" width="40px" style="margin: 15px;" />
+  </a>
+</p>
 
 <br>
 
 --------------
 
 I have 15 years experience in developement, i work with C++, assembly, golang and react native.
-<br>
-Blockchain => 9/10
-<br>
-c++  => 8/10
-<br>
-golang => 9/10
-<br>
-Kernel => 6/10
-<br>
-Compute Science => 8/10
-<br>
-Kubernetes => 7/10
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosfalante)](https://github.com/medeirosfalante/github-readme-stats)
 
 
 
